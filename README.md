@@ -16,17 +16,73 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
 <table border="0" width="100%">
   <thead>
     <tr>
-      <th align="center"><h3><b>Text</b></h3></th>
-      <th align="center">Speaker Prompt</th>
-      <th align="center">Ground Truth</th>
-      <th align="center">YourTTS</th>
-      <th align="center">VALL-E</th>
-      <th align="center">Mega-TTS</th>
+      <th align="center"><b>Text</b></th>
+      <th align="center"><b>Speaker Prompt</b></th>
+      <th align="center"><b>Ground Truth</b></th>
+      <th align="center"><b>YourTTS</b></th>
+      <th align="center"><b>VALL-E</b></th>
+      <th align="center"><b>Mega-TTS</b></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td width="40%"><p>They moved thereafter cautiously about the hut groping before and about them to find something to show that Warrenton had fulfilled his mission.</p></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_prompt/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_gt/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_yourtts/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_valle/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_mega-tts/1.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="40%"><p>And lay me down in thy cold bed and leave my shining lot.</p></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_prompt/2.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_gt/2.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_yourtts/2.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_valle/2.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_mega-tts/2.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="40%"><p>Number ten, fresh nelly is waiting on you, good night husband.</p></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_prompt/3.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_gt/3.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_yourtts/3.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_valle/3.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_mega-tts/3.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="40%"><p>Yea, his honourable worship is within, but he hath a godly minister or two with him, and likewise a leech.</p></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_prompt/4.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_gt/4.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_yourtts/4.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_valle/4.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_mega-tts/4.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="40%"><p>Instead of shoes, the old man wore boots with turnover tops, and his blue coat had wide cuffs of gold braid.</p></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_prompt/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_gt/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_yourtts/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_valle/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_mega-tts/1.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="40%"><p>The army found the people in poverty and left them in comparative wealth.</p></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_prompt/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_gt/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_yourtts/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_valle/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_mega-tts/1.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="40%"><p>Thus did this humane and right minded father comfort his unhappy daughter and her mother embracing her again did all she could to soothe her feelings.</p></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_prompt/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_gt/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_yourtts/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_valle/1.wav" type="audio/wav"></audio></td>
+      <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_mega-tts/1.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="40%"><p>He was in deep converse with the clerk and entered the hall holding him by the arm.</p></td>
       <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_prompt/1.wav" type="audio/wav"></audio></td>
       <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_gt/1.wav" type="audio/wav"></audio></td>
       <td width="12%"><audio controls="" ><source src="audio_sample/vsvalle_yourtts/1.wav" type="audio/wav"></audio></td>
