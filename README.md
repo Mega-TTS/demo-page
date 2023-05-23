@@ -16,7 +16,7 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
 <table border="0" width="100%">
   <thead>
     <tr>
-      <th align="center">Text</th>
+      <th align="center"><h3><b>Text</b></h3></th>
       <th align="center">Speaker Prompt</th>
       <th align="center">Ground Truth</th>
       <th align="center">YourTTS</th>
