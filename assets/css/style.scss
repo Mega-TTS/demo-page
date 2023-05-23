@@ -2,12 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+body{
+    color:#212121;
+    background:#212121;
+}
 .inner{
     max-width: 1200px;
     padding: 20px 20px;
 }
 audio{
-    width: 300px;
+    width: 100px;
     height: 27px;
 }
 #header_wrap{
