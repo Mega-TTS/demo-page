@@ -17,10 +17,14 @@ audio{
     border-top: 0px;
     border-bottom: 0px;
 }
+table{
+    border: 0px;
+}
 th{
     background: #f2f2f2;
     border: 0px;
-    border-bottom: 1px;
+    border-bottom: 2px black;
+    color:#212122;
 }
 td{
     border: 0px;
