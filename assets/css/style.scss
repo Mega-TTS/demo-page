@@ -3,7 +3,6 @@
 
 @import "{{ site.theme }}";
 body{
-    color:#f2f2f2;
     background:#f2f2f2;
 }
 .inner{
@@ -14,6 +13,21 @@ audio{
     width: 100px;
     height: 27px;
 }
+#main_content_wrap{
+    border-top: 0px;
+    border-bottom: 0px;
+}
+th{
+    background: #f2f2f2;
+    border: 0px;
+    border-bottom: 1px;
+}
+td{
+    border: 0px;
+}
 #header_wrap{
     display: none;
+}
+p{
+    color:#212122;
 }
