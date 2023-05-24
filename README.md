@@ -245,7 +245,9 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
 
 
 ## Zero-Shot TTS for Celebrities and Game Characters
-We use the prompts from the following famous people to generate the sentence "Good afternoon everyone. Today, we are super excited to introduce you all to Introduction to Deep Learning, the course of Carnegie Mellon University. In the first part of the course, we will talk about the generative deep learning that are used to generate data never existed in reality."
+
+<div><p>We use the prompts from the following famous people to generate the sentence "Good afternoon everyone. Today, we are super excited to introduce you all to Introduction to Deep Learning, the course of Carnegie Mellon University. In the first part of the course, we will talk about the generative deep learning that are used to generate data never existed in reality."</p></div>
+
 <table border="0" width="100%">
   <thead>
     <tr>
