@@ -212,7 +212,22 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
 
 
 <h2> Robustness Test Samples </h2>
-
+<table border="0" width="100%">
+  <thead>
+    <tr>
+      <th align="center"><strong>Text</strong></th>
+      <th align="center"><strong>Tacotron</strong></th>
+      <th align="center"><strong>Mega-TTS</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%"><p>See owned a saw and Mr Soar owned a seesaw. Now See’s saw sawed Soar’s seesaw before Soar saw See.</p></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/tacotron/1.wav" type="audio/wav"></audio></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/mega-tts/1.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+</table> 
 
 
 <h2> Zero-Shot TTS for Celebrities and Game Characters</h2>
