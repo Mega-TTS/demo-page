@@ -226,6 +226,21 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
       <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/tacotron/1.wav" type="audio/wav"></audio></td>
       <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/mega-tts/1.wav" type="audio/wav"></audio></td>
     </tr>
+    <tr>
+      <td width="50%"><p>forty one to five three hundred and eleven Fail - one - one to zero two Cancelled - zero - zero to zero zero Total.</p></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/tacotron/13.wav" type="audio/wav"></audio></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/mega-tts/13.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="50%"><p>Thursday, via a joint press release and Microsoft speech Blog, we will announce Microsoft’s continued partnership with Shell leveraging cloud, speech, and collaboration technology to drive industry innovation and transformation.</p></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/tacotron/48.wav" type="audio/wav"></audio></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/mega-tts/48.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="50%"><p>The great Greek grape growers grow great Greek grapes one one one.</p></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/tacotron/49.wav" type="audio/wav"></audio></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/mega-tts/49.wav" type="audio/wav"></audio></td>
+    </tr>
   </tbody>
 </table> 
 
