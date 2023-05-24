@@ -15,7 +15,7 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
 
 <div style="width:100%;height:50px;"></div>
 
-## Zero-Shot TTS Samples
+<h2> Zero-Shot TTS Samples </h2>
 <table border="0" width="100%">
   <thead>
     <tr>
@@ -95,7 +95,7 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
   </tbody>
 </table>  
 
-## Speech Editing Samples
+<h2> Speech Editing Samples </h2>
 <table border="0" width="100%">
   <thead>
     <tr>
@@ -167,7 +167,7 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
 </table>
 
 
-## Cross-Lingual TTS Samples
+<h2> Cross-Lingual TTS Samples </h2>
 <table border="0" width="100%">
   <thead>
     <tr>
@@ -211,7 +211,7 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
 </table> 
 
 
-## Robustness Test Samples
+<h2> Robustness Test Samples </h2>
 <table border="0" width="100%">
   <thead>
     <tr>
@@ -244,7 +244,7 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
 </table> 
 
 
-## Zero-Shot TTS for Celebrities and Game Characters
+<h2> Zero-Shot TTS for Celebrities and Game Characters</h2>
 
 <div><p>We use the prompts from the following famous people to generate the sentence "Good afternoon everyone. Today, we are super excited to introduce you all to Introduction to Deep Learning, the course of Carnegie Mellon University. In the first part of the course, we will talk about the generative deep learning that are used to generate data never existed in reality."</p></div>
 
