@@ -19,12 +19,12 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
 <table border="0" width="100%">
   <thead>
     <tr>
-      <th align="center"><b>Text</b></th>
-      <th align="center"><b>Speaker Prompt</b></th>
-      <th align="center"><b>Ground Truth</b></th>
-      <th align="center"><b>YourTTS</b></th>
-      <th align="center"><b>VALL-E</b></th>
-      <th align="center"><b>Mega-TTS</b></th>
+      <th align="center"><strong>Text</strong></th>
+      <th align="center"><strong>Speaker Prompt</strong></th>
+      <th align="center"><strong>Ground Truth</strong></th>
+      <th align="center"><strong>YourTTS</strong></th>
+      <th align="center"><strong>VALL-E</strong></th>
+      <th align="center"><strong>Mega-TTS</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -91,6 +91,28 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
       <td width="12%"><audio controls="" ><source src="audio_sample/zero-shot_TTS/yourtts/8.wav" type="audio/wav"></audio></td>
       <td width="12%"><audio controls="" ><source src="audio_sample/zero-shot_TTS/valle/8.wav" type="audio/wav"></audio></td>
       <td width="12%"><audio controls="" ><source src="audio_sample/zero-shot_TTS/mega-tts/8.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+</table>  
+
+## Speech Editing Samples
+<table border="0" width="100%">
+  <thead>
+    <tr>
+      <th align="center"><strong>Text</strong></th>
+      <th align="center"><strong>Original Speech</strong></th>
+      <th align="center"><strong>Editspeech</strong></th>
+      <th align="center"><strong>A3T</strong></th>
+      <th align="center"><strong>Mega-TTS</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="60%"><p>However, there is <strong>an issue</strong>, isn't there? -> However, there is <strong>an obvious issue</strong>, isnt there?</p></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/1.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/zero-shot_TTS/yourtts/1.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/zero-shot_TTS/valle/1.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/zero-shot_TTS/mega-tts/1.wav" type="audio/wav"></audio></td>
     </tr>
   </tbody>
 </table>  
