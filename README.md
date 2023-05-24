@@ -110,9 +110,9 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
     <tr>
       <td width="60%"><p>However, there is <strong>an issue</strong>, isn't there? -> However, there is <strong>an obvious issue</strong>, isnt there?</p></td>
       <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/1.wav" type="audio/wav"></audio></td>
-      <td width="10%"><audio controls="" ><source src="audio_sample/zero-shot_TTS/yourtts/1.wav" type="audio/wav"></audio></td>
-      <td width="10%"><audio controls="" ><source src="audio_sample/zero-shot_TTS/valle/1.wav" type="audio/wav"></audio></td>
-      <td width="10%"><audio controls="" ><source src="audio_sample/zero-shot_TTS/mega-tts/1.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/editspeech/1.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/a3t/1.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/mega-tts/1.wav" type="audio/wav"></audio></td>
     </tr>
   </tbody>
 </table>  
