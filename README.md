@@ -165,3 +165,26 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
     </tr>
   </tbody>
 </table>
+
+
+## Cross-Lingual TTS Samples
+<table border="0" width="100%">
+  <thead>
+    <tr>
+      <th align="center"><strong>English Text</strong></th>
+      <th align="center"><strong>Chinese Speaker Prompt</strong></th>
+      <th align="center"><strong>YourTTS</strong></th>
+      <th align="center"><strong>VALL-E</strong></th>
+      <th align="center"><strong>Mega-TTS</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="40%"><p>He honours whatever he recognizes in himself, such morality equals self-glorification.</p></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/prompt_chinese/1.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/yourtts_engligh/1.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/vallex_englisht/1.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/mega-tts_english/1.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+</table> 
