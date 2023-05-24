@@ -182,30 +182,97 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
     <tr>
       <td width="40%"><p>He honours whatever he recognizes in himself, such morality equals self-glorification.</p></td>
       <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/prompt_chinese/1.wav" type="audio/wav"></audio></td>
-      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/yourtts_engligh/1.wav" type="audio/wav"></audio></td>
-      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/vallex_englisht/1.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/yourtts_english/1.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/vallex_english/1.wav" type="audio/wav"></audio></td>
       <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/mega-tts_english/1.wav" type="audio/wav"></audio></td>
     </tr>
     <tr>
       <td width="40%"><p>There could be little art in this last and final round of fencing.</p></td>
       <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/prompt_chinese/2.wav" type="audio/wav"></audio></td>
-      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/yourtts_engligh/2.wav" type="audio/wav"></audio></td>
-      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/vallex_englisht/2.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/yourtts_english/2.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/vallex_english/2.wav" type="audio/wav"></audio></td>
       <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/mega-tts_english/2.wav" type="audio/wav"></audio></td>
     </tr>
     <tr>
       <td width="40%"><p>It's the first time Hilda has been to our house and Tom introduces her around.</p></td>
       <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/prompt_chinese/3.wav" type="audio/wav"></audio></td>
-      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/yourtts_engligh/3.wav" type="audio/wav"></audio></td>
-      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/vallex_englisht/3.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/yourtts_english/3.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/vallex_english/3.wav" type="audio/wav"></audio></td>
       <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/mega-tts_english/3.wav" type="audio/wav"></audio></td>
     </tr>
     <tr>
       <td width="40%"><p>It was youth and poverty and proximity and everything was young and kindly.</p></td>
       <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/prompt_chinese/4.wav" type="audio/wav"></audio></td>
-      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/yourtts_engligh/4.wav" type="audio/wav"></audio></td>
-      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/vallex_englisht/4.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/yourtts_english/4.wav" type="audio/wav"></audio></td>
+      <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/vallex_english/4.wav" type="audio/wav"></audio></td>
       <td width="15%"><audio controls="" ><source src="audio_sample/cross-lingual_TTS/mega-tts_english/4.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+</table> 
+
+
+## Robustness Test Samples
+<table border="0" width="100%">
+  <thead>
+    <tr>
+      <th align="center"><strong>Text</strong></th>
+      <th align="center"><strong>Tacotron</strong></th>
+      <th align="center"><strong>Mega-TTS</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%"><p>See owned a saw and Mr Soar owned a seesaw. Now See’s saw sawed Soar’s seesaw before Soar saw See.</p></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/tacotron/1.wav" type="audio/wav"></audio></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/mega-tts/1.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="50%"><p>forty one to five three hundred and eleven Fail - one - one to zero two Cancelled - zero - zero to zero zero Total.</p></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/tacotron/13.wav" type="audio/wav"></audio></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/mega-tts/13.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="50%"><p>Thursday, via a joint press release and Microsoft speech Blog, we will announce Microsoft’s continued partnership with Shell leveraging cloud, speech, and collaboration technology to drive industry innovation and transformation.</p></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/tacotron/48.wav" type="audio/wav"></audio></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/mega-tts/48.wav" type="audio/wav"></audio></td>
+    <tr>
+      <td width="50%"><p>The great Greek grape growers grow great Greek grapes one one one.</p></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/tacotron/49.wav" type="audio/wav"></audio></td>
+      <td width="25%"><audio controls="" ><source src="audio_sample/robustness_test/mega-tts/49.wav" type="audio/wav"></audio></td>
+    </tr>
+  </tbody>
+</table> 
+
+
+## Zero-Shot TTS for Celebrities and Game Characters
+We use the prompts from the following famous people to generate the sentence "Good afternoon everyone. Today, we are super excited to introduce you all to Introduction to Deep Learning, the course of Carnegie Mellon University. In the first part of the course, we will talk about the generative deep learning that are used to generate data never existed in reality."
+<table border="0" width="100%">
+  <thead>
+    <tr>
+      <th align="center"><strong>Name</strong></th>
+      <th align="center"><strong>Prompt</strong></th>
+      <th align="center"><strong>YourTTS</strong></th>
+      <th align="center"><strong>Mega-TTS</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="40%"><p>Theresa May</p></td>
+      <td width="20%"><audio controls="" ><source src="audio_sample/celebrity&game_character/Theresa_May/may_prompt.wav" type="audio/wav"></audio></td>
+      <td width="20%"><audio controls="" ><source src="audio_sample/celebrity&game_character/Theresa_May/may_yourtts.wav" type="audio/wav"></audio></td>
+      <td width="20%"><audio controls="" ><source src="audio_sample/celebrity&game_character/Theresa_May/may_mega-tts.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="40%"><p>Barack Obama</p></td>
+      <td width="20%"><audio controls="" ><source src="audio_sample/celebrity&game_character/Obama/obama_prompt.wav" type="audio/wav"></audio></td>
+      <td width="20%"><audio controls="" ><source src="audio_sample/celebrity&game_character/Obama/obama_yourtts.wav" type="audio/wav"></audio></td>
+      <td width="20%"><audio controls="" ><source src="audio_sample/celebrity&game_character/Obama/obama_mega-tts.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="40%"><p>Drawf from Warcraft</p></td>
+      <td width="20%"><audio controls="" ><source src="audio_sample/celebrity&game_character/Warcraft_Drawf/drawf_prompt.wav" type="audio/wav"></audio></td>
+      <td width="20%"><audio controls="" ><source src="audio_sample/celebrity&game_character/Warcraft_Drawf/drawf_yourtts.wav" type="audio/wav"></audio></td>
+      <td width="20%"><audio controls="" ><source src="audio_sample/celebrity&game_character/Warcraft_Drawf/drawf_mega-tts.wav" type="audio/wav"></audio></td>
     </tr>
   </tbody>
 </table> 
