@@ -108,11 +108,60 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
   </thead>
   <tbody>
     <tr>
-      <td width="60%"><p>However, there is <strong>an issue</strong>, isn't there? -> However, there is <strong>an obvious issue</strong>, isnt there?</p></td>
+      <td width="60%"><p>However, there is <strong>an issue</strong>, isn't there? --> However, there is <strong>an obvious issue</strong>, isnt there?</p></td>
       <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/1.wav" type="audio/wav"></audio></td>
       <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/editspeech/1.wav" type="audio/wav"></audio></td>
       <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/a3t/1.wav" type="audio/wav"></audio></td>
       <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/mega-tts/1.wav" type="audio/wav"></audio></td>
     </tr>
+    <tr>
+      <td width="60%"><p>Others have tried to explain <strong>the phenomenon</strong> physically. --> Others have tried to explain <strong>the rare phenomenon for them</strong> physically.</p></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/2.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/editspeech/2.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/a3t/2.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/mega-tts/2.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="60%"><p>Well, he <strong>can</strong> do it. --> Well, he <strong>is able to</strong> do it.</p></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/3.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/editspeech/3.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/a3t/3.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/mega-tts/3.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="60%"><p>Throughout the centuries people have <strong>explained the rainbow</strong> in various ways. --> Throughout the centuries people have <strong>constantly explained the rainbow phenomenon</strong> in various ways.</p></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/4.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/editspeech/4.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/a3t/4.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/mega-tts/4.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="60%"><p>She has nothing to <strong>say to</strong> journalists. --> She has nothing to <strong>communicate with</strong> journalists.</p></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/5.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/editspeech/5.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/a3t/5.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/mega-tts/5.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="60%"><p>I am confident of <strong>the outcome</strong> this week. --> I am confident of <strong>the midsemester outcome at</strong> this week.</p></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/6.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/editspeech/6.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/a3t/6.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/mega-tts/6.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="60%"><p>Something <strong>happened</strong> on that island. --> Something <strong>wrong suddenly happened</strong> on that island.</p></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/7.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/editspeech/7.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/a3t/7.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/mega-tts/7.wav" type="audio/wav"></audio></td>
+    </tr>
+    <tr>
+      <td width="60%"><p>You probably <strong>have never seen</strong> them before. --> You probably <strong>have worked with</strong> them before.</p></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/gt/8.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/editspeech/8.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/a3t/8.wav" type="audio/wav"></audio></td>
+      <td width="10%"><audio controls="" ><source src="audio_sample/speech_editing/mega-tts/8.wav" type="audio/wav"></audio></td>
+    </tr>
   </tbody>
-</table>  
+</table>
