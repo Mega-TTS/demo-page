@@ -272,10 +272,10 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
       <td width="20%" style="text-align: center;"><audio controls="" ><source src="audio_sample/celebrity&game_character/Obama/obama_mega-tts.wav" type="audio/wav"></audio></td>
     </tr>
     <tr>
-      <td width="40%"><p>Drawf from Warcraft</p></td>
-      <td width="20%" style="text-align: center;"><audio controls="" ><source src="audio_sample/celebrity&game_character/Warcraft_Drawf/drawf_prompt.wav" type="audio/wav"></audio></td>
-      <td width="20%" style="text-align: center;"><audio controls="" ><source src="audio_sample/celebrity&game_character/Warcraft_Drawf/drawf_yourtts.wav" type="audio/wav"></audio></td>
-      <td width="20%" style="text-align: center;"><audio controls="" ><source src="audio_sample/celebrity&game_character/Warcraft_Drawf/drawf_mega-tts.wav" type="audio/wav"></audio></td>
+      <td width="40%"><p>Dwarf from Warcraft</p></td>
+      <td width="20%" style="text-align: center;"><audio controls="" ><source src="audio_sample/celebrity&game_character/Warcraft_Dwarf/dwarf_prompt.wav" type="audio/wav"></audio></td>
+      <td width="20%" style="text-align: center;"><audio controls="" ><source src="audio_sample/celebrity&game_character/Warcraft_Dwarf/dwarf_yourtts.wav" type="audio/wav"></audio></td>
+      <td width="20%" style="text-align: center;"><audio controls="" ><source src="audio_sample/celebrity&game_character/Warcraft_Dwarf/dwarf_mega-tts.wav" type="audio/wav"></audio></td>
     </tr>
   </tbody>
 </table> 
