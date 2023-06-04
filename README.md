@@ -174,7 +174,7 @@ Scaling text-to-speech to a large and wild dataset has been proven to be highly 
       <th align="center"><strong>English Text</strong></th>
       <th align="center"><strong>Chinese Speaker Prompt</strong></th>
       <th align="center"><strong>YourTTS</strong></th>
-      <th align="center"><strong>VALL-E</strong></th>
+      <th align="center"><strong>VALL-E X</strong></th>
       <th align="center"><strong>Mega-TTS</strong></th>
     </tr>
   </thead>
